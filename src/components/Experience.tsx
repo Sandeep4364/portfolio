@@ -21,7 +21,7 @@ export default function Experience() {
       company: 'Edunet',
       period: 'Sep 2025 - Oct 2025',
       description: 'Completed 1 month internship focusing on AI in the cloud.',
-      document: '/documents/aicte_b4_pd_Completion-491.pdf',
+      document: '/documents/AICTE B4 PD Completion-491.pdf',
     },
     {
       role: 'Web Development Internship',
@@ -29,6 +29,13 @@ export default function Experience() {
       period: 'Aug 2025 - Sep 2025',
       description: 'Completed one-month internship focusing on web development projects.',
       document: '/documents/vault_of_codes.pdf',
+    },
+    {
+      role: 'Green Intern',
+      company: '1M1B',
+      period: 'Sep 2025 - Oct 2025',
+      description: '1 month internship focused on sustainable, Tableau training and data analytics.',
+      document: '/documents/1m1b.pdf',
     },
   ];
 
