@@ -7,7 +7,7 @@ export default function Skills() {
     },
     {
       title: 'Web Development',
-      skills: ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js'],
+      skills: ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js', 'Django', 'TypeScript'],
       color: 'from-cyan-500 to-teal-500',
     },
     {
